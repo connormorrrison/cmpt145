@@ -1,0 +1,66 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+commit 4db1eb161132e0a57f64ef4fcf1f0b5868471be9
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 15 23:54:18 2024 -0600
+
+    Slight update to formatting.
+
+commit 7bc2b8d27dd58c637f1518dcb8e71a2d74b48003
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 15 23:44:52 2024 -0600
+
+    Re-added git file to project.
+
+commit 3409560a25f8ab38049f952aa57385f2c4b6844a
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 15 23:44:15 2024 -0600
+
+    Completed 'a6q5.txt' containing explanations for parts (c) and (d).
+
+commit 6f7962e7d9362717ca5522c2af0dee2d55d9025a
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 15 23:43:40 2024 -0600
+
+    Completed 'a6q5.py' containing recursive MothraCount() function and the code for the three examples listed part (b).
+
+commit 0ac1a6485b7405a10dfadfaf9eee5016cdf95fb2
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 15 23:42:47 2024 -0600
+
+    Completed 'a6q4.py' containing recursive function SolveMaze().
+
+commit 8c1919bd2c7205feff4c444c8a426bcc273c340f
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 15 23:41:42 2024 -0600
+
+    Completed 'a6q3_testing.py' including necessary test cases.
+
+commit 4a1b6aee413732ec594dc7318ad6960394b52d04
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 15 23:40:52 2024 -0600
+
+    Completed 'a6q3.py' containing recursive functions for to_string(), copy() and replace().
+
+commit b508d49fca422274f7b6011d561040f0525529d7
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 15 23:39:50 2024 -0600
+
+    Completed 'a6q2_testing.py' containing test script and test cases.
+
+commit e1eca580edb178f7302dfff72070a42f544da6d9
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 15 23:38:51 2024 -0600
+
+    Completed 'a6q2.py' containting recursive functions.
+
+commit a89ee0209b79a29ffc9fad6fc2e6e590b525214d
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Sun Mar 10 22:28:27 2024 -0600
+
+    Added starter project files to 'assignment8'.

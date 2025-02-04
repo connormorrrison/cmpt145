@@ -1,0 +1,27 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+Changes made in 'a3q3.py':
+
+1. __init__ modifications:
+ - Added three new instance variables for new operations:
+  - 'self.__max' and 'self.__min' to track the max and min values seen so far. Initially set to None.
+  - 'self.__values' to store frequency of each value added in a dictionary, needed for determining the mode(s).
+
+2. add() method modifications:
+ - Updated the 'add()' method to update the 'self.__max' and 'self.__min' variables whenever a new value is added - ensures that the max and min values are always current.
+ - Modified the 'add()' method to update the 'self.__values' dictionary - involves incrementing frequency count for the added value if it exists in the dictionary, or adding it to the dictionary if it does not exist.
+
+3. New methods:
+ - Implemented the 'range()' method to return difference between max and min values seen so far. Returns None if no data has been seen.
+ - Implemented the 'mode()' method to return most frequently occurring value(s) seen so far. If there are multiple modes, it returns a tuple containing all modes. Returns None if no data has been seen.
+ - Implemented the 'max()' method to return the max value seen so far. Returns None if no data has been seen.
+ - Implemented the 'min()' method to return the min value seen so far. Returns None if no data has been seen.
+
+4. Documentation
+ - Updated documentation for existing methods.
+ - Added documentation for new methods.

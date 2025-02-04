@@ -1,0 +1,16 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+
+1. How long did it take for you to create your plan?
+Creating the plan took approximately an hour for the formatting, time estimation for each activity, and recording actual time spent at the end of the assignment.
+
+2. Did you revise your design? In other words, did any part of your implementation turn out to be significantly different from your design? If so, briefly explain the reason for the difference(s).
+Only slightly, by adding a minor line to handle commands that are not valid directions (ie. not N, S, E, W). I added a line to return the starting position (0, 0) if the line has invalid directions.
+
+3. Did any of the phases take significantly longer than you had planned? If so, explain what happened, and suggest ways to avoid this in the future.
+The design document took far longer than I originally planned. Between writing the pseudocode algorithms, inputs and outputs, and some test cases for each function, I found the design phase took significantly more time.

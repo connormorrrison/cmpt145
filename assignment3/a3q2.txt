@@ -1,0 +1,29 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+
+Question 2:
+
+copy1()
+- Does not make a copy.
+- Is not suitable.
+
+copy2()
+- Does not make a copy.
+- Is not suitable.
+
+copy3()
+- Makes a copy but empties the original list (has side effects).
+- Is not suitable.
+
+copy4()
+- Makes a copy but does not return it (returns None).
+- Is suitable.
+
+copy5()
+- Does not make a copy.
+- Is not suitable.

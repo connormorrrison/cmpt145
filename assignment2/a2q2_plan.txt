@@ -1,0 +1,42 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+
+1. Requirements
+ - Day: January 23, 2024
+ - Time: 7:00 PM
+ - Location: Home, Saskatoon, SK
+ - Duration: 30 minutes
+ - Actual Time: 1 hour
+
+2. Design
+ - Day: January 23, 2024
+ - Time: 8:00 PM
+ - Location: Home, Saskatoon, SK
+ - Duration: 2 hours
+ - Actual Time: 3 hour, 10 minutes
+
+3. Implementation
+ - Day: January 24, 2024
+ - Time: 1:00 PM
+ - Location: Home, Saskatoon, SK
+ - Duration: 4 hours
+ - Actual Time: 3 hours, 20 minutes
+
+4. Testing/debugging
+ - Day: January 25, 2024
+ - Time: 5:00 PM
+ - Location: Home, Saskatoon, SK
+ - Duration: 2 hours
+ - Actual Time: 1 hour, 5 minutes
+
+5. Tidying up
+ - Day: January 25, 2024
+ - Time: 7:00 PM
+ - Location: Home, Saskatoon, SK
+ - Duration: 1 hour
+ - Actual Time: 1 hour, 15 minutes

@@ -1,0 +1,38 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Laboratory Section: L02
+
+
+1. (2 marks)
+How confident are you that your program is correct?
+I am confident that the program works as intended. In working through the implementation process, I continually tested function outputs to the algorithms were performing optimally.
+
+What is the basis for your confidence?
+As mentioned, I continually tested each function to ensure proper output. I also tested all test scripts to ensure the program as a whole was working as intended.
+
+How likely do you think it is that your program might be incorrect in a way you do not currently recognize?
+I don't believe it to be incorrect, in the design process, I wanted functions to be separated into single tasks to make understand what each component of the program did.
+
+
+2. (2 marks)
+How much time did you spend writing your program?
+I began thinking about the program on Tuesday/Wednesday, with a relatively small implementation in my first commit on Thursday. I spent most of Friday-early Sunday working on the code writing progress.
+
+Did it take longer or shorter than you expected?
+It took longer than expected, and since I have weekly assessments in all of my other courses, I will be starting my future CMPT assignments much earlier.
+
+Which part of this task took the longest?
+The highest level abstraction (ie. pseudocode and function planning) took the quickest time, with exact function implementation taking the longest.
+
+
+3. (2 marks)
+Consider how often you were interrupted, distracted, delayed during your work for Question 2.
+There were several times that I became distracted, particularly as I began working late into the night, I noticed my ability to remain focused on the task on hand declined as I started to check my phone, social media, etc.
+
+Do you think these factors substantially increased the time you needed?
+A bit yes, I think they dragged the process out. I think if I had dedicated periods of time-blocking to work, the development process could have been faster.
+
+If so, what kinds of steps can you take to prevent these factors?
+As I mentioned, I will dedicate periods to work on future assignments, away from my phone and other distractions.

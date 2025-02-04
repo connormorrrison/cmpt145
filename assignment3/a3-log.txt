@@ -1,0 +1,78 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+commit 556fa5913a3598b69586824c30c0bfcebaa34be0
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 15:14:00 2024 -0600
+
+    Slight correction to answers for files `a3q2.py` and 'a3q2.txt'.
+
+commit 4ead9a494a27650608ed47fd3d624e88a51c1371
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 03:01:18 2024 -0600
+
+    Added sample test files for 'a3q3_tri.py'.
+
+commit 7f187d2ae1961d40caf90100546f5d54d849d150
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 03:00:15 2024 -0600
+
+    Added file to project and completed test cases in 'a3q3_dup.py'.
+
+commit 03113c84b74cf953cf13567d17fde1ff9eaac728
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 02:59:32 2024 -0600
+
+    Added file to project and completed test cases in 'a3q3_tri.py'.
+
+commit 0222852ea0510c4e4435f2e69a5a9028cebc25f6
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 02:59:22 2024 -0600
+
+    Added file to project and completed test cases in 'a3q3_gcd.py'.
+
+commit 423b76419fac77917da639c0a0949489c86d9400
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 02:58:56 2024 -0600
+
+    Added file to project and completed test cases in 'a3q3_nr.py'.
+
+commit 3e0635c4803c4815dc2f8c87fff6c64c55d36c32
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 02:56:51 2024 -0600
+
+    Added to project and completed necessary questions in 'a3q2.txt' file.
+
+commit 7d4300fd257cdb71bfe0de2067a3ba6ff3f9fb53
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 02:55:31 2024 -0600
+
+    Removed TODO message.
+
+commit 1364bf99d61f1c7edbe6ef45edb4867b2ee0cc77
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 02:54:51 2024 -0600
+
+    Added 'a3q3.py' to project. Also added docstring comments to all functions and updated newtonraphson(), gcd() and remdup() functions to improve testing.
+
+commit 2e2d6bde724bdc04ba77edbb77cd2336911a96fa
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 02:51:56 2024 -0600
+
+    Added 'a3q2.py' to project. Also added TODO code to file and used file to complete questions for 'a3q2.txt'.
+
+commit c93b065727b8aeff5f78c46a5e36678d13a9d44f
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 2 02:48:08 2024 -0600
+
+    Added miscellaneous Pycharm project files to project.
+
+commit 0fad75cc8117ea57d0b9266beed247f4120a824b
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Wed Jan 31 15:48:35 2024 -0600
+
+    Added 'a3-log.txt' git log file.

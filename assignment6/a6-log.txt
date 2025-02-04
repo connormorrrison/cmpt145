@@ -1,0 +1,42 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+commit bbbf012bd939c1b2167d3edf3960072dbfee460a
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 1 17:56:44 2024 -0600
+
+    Added student info to log file.
+
+commit 53509643d905aebc9f80e5eb0f977d2e686dc15c
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 1 17:55:44 2024 -0600
+
+    Added additional line comments to most methods. Tweaked overall formatting slightly.
+
+commit 1beb5d871302bad505dedd5d12e66dd4a8396992
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 1 17:37:50 2024 -0600
+
+    Completed final implementation of remaining methods, and fixed edge case errors in 'retrieve_data' and 'set_data'.
+
+commit b5684587cee64cbb432e4f91c66e408f05d2d9fc
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 1 03:23:59 2024 -0600
+
+    Minor updates to existing methods and addition of line comments.
+
+commit e836e1191dc4bdc70cb41335559b0acb28e30951
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Mar 1 02:40:34 2024 -0600
+
+    Implemented required methods up to 'remove_from_front' for LList class.
+
+commit 7d931c167ec6fd8bb3a141590dc68fb53977f687
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Thu Feb 29 02:10:58 2024 -0600
+
+    Added starter files and git log file to project.

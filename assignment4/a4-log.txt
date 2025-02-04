@@ -1,0 +1,66 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+commit b6cc8ac6bdc4c61aa7166492e48abd814e82e380
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 9 20:16:16 2024 -0600
+
+    Slight updates to documentation and formatting.
+
+commit 76007e32748464cd55ab4d9d1baf13325da34773
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 9 19:19:55 2024 -0600
+
+    Slight update to comments.
+
+commit 60c41a1475239a9099e47bf5e72ae986ee70330d
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 9 19:10:23 2024 -0600
+
+    Added student information at top of file.
+
+commit ff6af68ca8f7638f29e8acc260cd27dbc415e418
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 9 19:09:29 2024 -0600
+
+    Completed 'a3q4_testing.py' and necessary documentation.
+
+commit e3a98eafa368ca2c45d81fe0b21550fa671ee713
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 9 19:09:12 2024 -0600
+
+    Completed 'a3q4.py' and necessary documentation.
+
+commit a79253b91106b77d73038c7a46f98998897f7e17
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 9 19:08:20 2024 -0600
+
+    Completed 'a3q3_testing.py' and necessary documentation.
+
+commit 51403a1b3aac34afa8eda8f36be915d5f1de9f81
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 9 19:07:58 2024 -0600
+
+    Completed 'a3q3.py' and necessary documentation.
+
+commit 393ebc791fccb34435d06f9f643e5b8fb7d5daa8
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 9 19:07:22 2024 -0600
+
+    Completed 'a3q3_changes.txt'.
+
+commit a2ab16fd24cc350ece31dad42bbad08b8afe087c
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Feb 9 19:06:20 2024 -0600
+
+    Completed 'a3q2_testing.py' and necessary documentation.
+
+commit 51819aafc3cdc9f69cd1ac681a7a085ec2d72206
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Wed Feb 7 22:58:40 2024 -0600
+
+    Created and added all files to project and implemented initial project structure.

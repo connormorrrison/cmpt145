@@ -1,0 +1,48 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Laboratory Section: L02
+
+
+commit 3e3f1af6a3b392033b622c77beefa8adcceffeca
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Sun Jan 21 15:24:58 2024 -0600
+
+    Updated and completed answers for 'a1q5.txt'.
+
+commit b10c8900560f9cf5aa4ebcfba4badfabbb758f95
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Sun Jan 21 15:24:05 2024 -0600
+
+    Updated 'a1p4.py' program documentation and finalized program rotation algorithms.
+
+commit af82a1a68fcf5eb55375113cae307e2fed516848
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Sun Jan 21 15:22:56 2024 -0600
+
+    Updated and completed answers for 'a1q3.txt'.
+
+commit 5e77b25afba12f4c1334ee747ed82354f6565fcd
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Sun Jan 21 15:21:42 2024 -0600
+
+    Updated 'a1p2.py' program documentation and finalized program design.
+
+commit 38e506d177edbb3939d83517ee00c94191d20772
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Sat Jan 20 21:35:21 2024 -0600
+
+    Near finalization of 'a1q2.py', and read file, and in-progress rotation algorithms implemented for 'a1q4.py'.
+
+commit d7168399333d3bd51fcba99183cf4a1bdfec58c7
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Thu Jan 18 02:56:11 2024 -0600
+
+    Added sample input files and began implementing Tho interpreting function.
+
+commit 8006eca355271807d0fc7fb31450a38e12122f72
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Thu Jan 18 00:17:37 2024 -0600
+
+    Started assignment 1. Added log file and basic structure for questions 2, 3, 4, and 5.

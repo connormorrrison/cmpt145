@@ -1,0 +1,19 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+
+(c) The base case of the recursive function represents a scenario where the room has been reduced to a size of 1xN or Nx1 tiles (where N can be any number). In such a scenario, there is only one shortest path to traverse the entire room either horizontally or vertically, hence the correct answer for the base case is 1. This is because Mothra can only move right or down, and in a 1xN or Nx1 room, she only has one option for each move.
+
+    The base case represents scenarios where either the width 'a' or the length 'b' of the room is 1. Here, Mothra can only move in one direction, making the total number of shortest paths exactly 1. This is because there is only one straight line from start to finish.
+
+
+(d) For each recursive case, the problem size is reduced by considering that at any given tile, Mothra can only move either to the right or down. Thus, the number of paths to the endpoint from a certain tile is the sum of the paths from the tile to the right and the tile below. Therefore, for each recursive call, we calculate the number of paths from the tile to the right (a-1, b) and the tile below (a, b-1), summing these to get the total number of paths from the current tile. By doing so recursively, we build up the solution from smaller problem sizes, leveraging the solutions of these sub-problems to solve larger ones.
+
+    In the recursive case, the function splits the scenario into two smaller problems:
+     - finding the number of paths to the destination from the tile immediately to the left (MothraCount(a - 1, b)) and
+     - from the tile immediately below (MothraCount(a, b - 1)).
+    Each call to the MothraCount function calculates the number of paths from these positions, where the total number of paths to the current tile is the sum of the paths to these two adjacent tiles. This reduces the size of the problem at each step by decreasing either 'a' or 'b' by 1. The solution is built up by summing the number of paths from these adjacent positions.

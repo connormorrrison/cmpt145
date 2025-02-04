@@ -1,0 +1,125 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+
+Function: 'calculate_position'
+ - Function description: Calculate the final (x, y) position based on a series of directions.
+ - Pseudocode algorithm:
+
+    """
+    Set initial x, y coordinates to 0, 0
+
+    For each line in line from file
+        If direction is north
+            Add 1 to y
+        If direction is south
+            Subtract 1 from y
+        If direction is east
+            Add 1 to x
+        If direction is west
+            Subtract 1 from x
+        Else return starting position
+
+    Return x, y coordinates -> (x, y)
+    """
+
+ - Inputs:
+    - "directions" (string): A string of characters where each character represents a direction (N, S, E, W).
+
+ - Outputs:
+    - A tuple (x, y) representing the final position on a plane after following the directions.
+
+ - Test cases:
+    - Test Case 1: Input string "NNE"
+        - Expected output: (1, 2)
+    - Test Case 2: Input string "NNE\nSSW"
+        - Expected output: (1, 2), (-1, -2)
+    - Test Case 3: Empty line
+        - Expected output: (0, 0)
+
+
+Function: 'read_file'
+ - Function description: Read a file containing lines of directions and return a list of calculated positions.
+ - Pseudocode algorithm:
+
+    """
+    Initialize empty list
+
+    Open file name as file
+        For each line in the file
+            Strip whitespaces from line
+            Create variable = result of send line to 'calculate_position' function
+            Append variable to empty list
+
+    Return list of coordinate pairs -> [(x1, y1), (x2, y2), ...]
+    """
+
+ - Inputs:
+    - file_path (string): The path to the text file containing lines of directions.
+
+ - Outputs:
+    - A list of tuples, where each tuple represents the final (x, y) position calculated from a line of directions in the file.
+
+ - Test cases:
+    - Test Case 1: File with single line "NNESE"
+        - Expected output: (2, 1)
+    - Test Case 2: File with multiple lines "NNE\nSSW"
+        - Expected output: [(1, 2), (-1, -2)]
+    - Test Case 3: Empty file
+        - Expected output: []
+
+
+Function: 'display_results'
+ - Function description: Print each ordered pair of coordinates to the console.
+ - Pseudocode algorithm:
+
+    """
+    For each coordinate pair (x, y) in list of coordinate pairs
+        Print coordinate pair
+    """
+
+ - Inputs:
+    - ordered_pairs (list of tuples): A list where each tuple represents an (x, y) position.
+
+ - Outputs:
+    - None.
+
+ - Test cases:
+    - Test Case 1: Input list [(1, 2), (3, 4)]
+        - Expected output:
+            (1, 2)
+            (3, 4)
+    - Test Case 2: Input list [(0, 0)]
+        - Expected output:
+            (0, 0)
+    - Test Case 3: Empty list []
+        - Expected output: No output
+
+
+Function: 'main()'
+ - Function description: Main function to run the program. Handles user input, file reading, and displaying results.
+ - Pseudocode algorithm:
+
+    """
+    Get filename
+    Capture in variable result of send filename to read_file() function
+    Send returned list to display_results()
+    """
+
+ - Inputs:
+    - None.
+
+ - Outputs:
+    - None.
+
+  - Test cases:
+    - Test Case 1: Input filename with contents "NNE\nSSW"
+        - Expected output:
+            (1, 2)
+            (-1, -2)
+    - Test Case 2: Input file name with no contents
+        - Expected output: No output

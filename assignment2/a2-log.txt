@@ -1,0 +1,55 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+
+commit 626b5d487494c89fe10c6888e06ce27b95d51e5a
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Jan 26 15:00:11 2024 -0600
+
+    Removed 'a2q3.pdf' file.
+
+commit 976da3d896016393be20b86a31081692aee78475
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Jan 26 14:59:40 2024 -0600
+
+    Completed 'a2q2_reflections.txt' file.
+
+commit 8856dfccdf2e5eb35279d7e0f672739f3f048e7e
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Jan 26 14:59:00 2024 -0600
+
+    Added example files to test program output.
+
+commit d8e6e1c3dcc2722e3194c3db361a096454ccb144
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Jan 26 14:57:42 2024 -0600
+
+    Completed 'a2q2.py' file with all functions outlined in design document.
+
+commit 137a7b313203cd0af85fc1d2a86d2ebbf017f843
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Jan 26 14:56:43 2024 -0600
+
+    Completed 'a2q2_design.txt' file.
+
+commit f54c2c38a975737a4ee0978d10dd96153e09fe27
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Jan 26 14:55:33 2024 -0600
+
+    Completed 'a2q2_plan.txt' file.
+
+commit 5ff90dde2532ccf5ae29d0ec389c2b00dbd7d526
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Fri Jan 26 14:54:15 2024 -0600
+
+    Created git log file 'a2-log.txt'.
+
+commit 83afe838e17f6b3c7353890b7e0b4fe41b13b1a3
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Sun Jan 21 18:17:23 2024 -0600
+
+    Started assignment 2. Added git log file and basic structure for questions 2 and 3.

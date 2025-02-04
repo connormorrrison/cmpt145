@@ -1,0 +1,38 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Laboratory Section: L02
+
+
+1. (2 marks)
+How confident are you that your program is correct?
+I am fairly confident that the program is correct. I tested all available test scripts to ensure the output was correct.
+
+What is the basis for your confidence?
+As mentioned, I tested all test scripts and compared their output to the provided "question 4 solutions" to ensure proper output.
+
+How likely do you think it is that your program might be incorrect in a way you do not currently recognize?
+I completed my prior computer science course at the University of Alberta, and design and abstraction were emphasized. If there are incorrect areas, I suspect it might be in how the overall program is structured, as opposed to its output.
+
+
+2. (2 marks)
+How much time did you spend writing your program?
+I spent roughly late Friday to Sunday implementing my code. I spent the week thinking about and working through the solution.
+
+Did it take longer or shorter than you expected?
+Longer than expected. As mentioned, I will be starting my future assignments earlier and learning better strategies to manage the completion of my CMPT assignments and assessments from other courses.
+
+Which part of this task took the longest?
+Individual function design and error correcting took the longest part. My initial algorithm did not produce the correct rotation output exactly, so I had to revisit my solution and make adjustments.
+
+
+3. (2 marks)
+Consider how often you were interrupted, distracted, delayed during your work for Question 4.
+As mentioned in the previous reflection, there were several times I got distracted by my phone and social media. I also found I lost my ability to remain focused when working on my assignment late at night.
+
+Do you think these factors affected substantially increased the time you needed?
+Yes, I think it somewhat impacted how quickly I was able to finish the assignment. I found that my productivity decreased the longer I spent sitting down.
+
+If so, what kinds of steps can you take to prevent these factors?
+In the future, I will take breaks when necessary to remain concentrated and productive, instead of merely staring at my screen and not getting work done.

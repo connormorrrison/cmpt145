@@ -1,0 +1,42 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+commit c53961eda4226c81b4c655fb7a2a667650931257
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Tue Feb 20 19:09:34 2024 -0700
+
+    Completed 'a5q4.py' functions and file.
+
+commit 6612d386a719e2c9a061738a620a9cfe94011c48
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Tue Feb 20 19:09:03 2024 -0700
+
+    Completed 'a5q3.py' file.
+
+commit 1d8495de75660788d0673591b9f1eb04ed63cfb3
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Tue Feb 20 19:08:38 2024 -0700
+
+    Completed 'a5q2.py' file and documentation.
+
+commit 13504c2d8642495df7ce0481c1f0b710209f7f76
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Tue Feb 20 18:44:41 2024 -0700
+
+    Added 'node.py' file to project.
+
+commit cfd7a4e9dd6d55dd6205ee25fc9b38b4d4218941
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Tue Feb 20 00:42:15 2024 -0700
+
+    Added all testing files to git.
+
+commit 227de945f1ad7f83f0b6e66d75f42e54533677c6
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Sun Feb 18 11:16:43 2024 -0700
+
+    Added project files to project.

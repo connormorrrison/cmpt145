@@ -1,0 +1,48 @@
+Name: Connor Morrison
+NSID: tvi340
+Student Number: 11374770
+Course Number: CMPT 145
+Lecture Section: 04
+Laboratory Section: L02
+
+commit 9a03d6ce37539875e1f7390cdf8d00dd75635ae7
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Wed Apr 3 14:04:34 2024 -0600
+
+    Formatted git log file.
+
+commit eaf9b1c38a1fea8bc242bf3b41cca062c1004c74
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Wed Apr 3 14:04:15 2024 -0600
+
+    Completed class implementation and documentation for 'MobilityProfile.py'.
+
+commit fe66b71b8c91ea341b56b31a03abb0d9dc059795
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Wed Apr 3 14:03:50 2024 -0600
+
+    Completed class implementation and documentation for 'LocationNode.py'.
+
+commit 1504e503dce15e7468f02c011244edb7594ec8e5
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Wed Apr 3 14:02:56 2024 -0600
+
+    Completed class implementation and documentation for 'a10q2_Queue.py'.
+
+commit 7a2f4d32c0a7f564f09d638133ebbe9d80d9ad82
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Wed Apr 3 14:02:40 2024 -0600
+
+    Completed class implementation and documentation for 'a10q2_Stack'.
+
+commit 613d1ec81ee1daa7b0c2d173c97e407eeae1fcc8
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Wed Apr 3 14:02:17 2024 -0600
+
+    Completed class implementation and documentation for 'a10q2_Container.py'.
+
+commit 634db30ce8099ec0407ff85d483114e7a89d3f43
+Author: Connor Morrison <113166048+connormorrrison@users.noreply.github.com>
+Date:   Thu Mar 28 13:36:31 2024 -0600
+
+    Added initial project 'starter files' to project.
